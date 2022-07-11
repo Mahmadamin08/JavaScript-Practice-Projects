@@ -46,14 +46,25 @@ input :focus
 
 .todo
 {
-    
+    position: relative;
     align-items: center;
     max-width: 25%;
     margin-left: 37.5%;
     margin-top: 20px;
     border-radius: 5px;
-    min-height: 350px;
-    background-color: rgb(47, 255, 255);
+    min-height: 0;
+    background-color: rgb(80, 255, 255);
+}
+.Inst
+{
+    align-items: center;
+    color: rgb(197, 200, 200);
+    margin-left: 37.5%;
+    width: 25%;
+    bottom: 00;
+    
+    padding-left: 20px;
+    
 }
 h2
 {
