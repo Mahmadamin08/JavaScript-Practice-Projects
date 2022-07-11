@@ -1,0 +1,70 @@
+h1
+{
+    text-align: center;
+    margin-top: 10px;
+}
+.in
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 5rem auto;
+    margin-bottom: 0;
+    border: none;
+    border-bottom: 2px solid rgb(224, 193, 255);
+    background-color: rgb(193, 220, 243);
+    height: 3rem;
+    border-radius: 3px;
+    width: 20%;
+    color: black;
+    font-size: 1.2rem;
+}
+input :focus
+{
+    border: none;
+    background-color: aliceblue;
+}
+.addbtn
+{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.add
+{
+    margin-top: 0%;
+    width: 20%;
+    background-color: rgb(26, 170, 26);
+    padding: 0.5rem;
+    border: none;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom: 2px solid blue;
+   margin-bottom: 50px;
+}
+
+.todo
+{
+    
+    align-items: center;
+    max-width: 25%;
+    margin-left: 37.5%;
+    margin-top: 20px;
+    border-radius: 5px;
+    min-height: 350px;
+    background-color: rgb(47, 255, 255);
+}
+h2
+{
+   text-align: center;
+   margin-top: 50px;
+}
+li
+{
+    margin: 3px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.3rem;
+    
+}
